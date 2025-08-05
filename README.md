@@ -60,7 +60,7 @@ root/
 
 ![How to Append](how_to_append.png "How to append new data to feature layer")
 
-4. Save changes, your project, and confirm that the changes are reflected in the (dashboard)[https://combat-geospatial-hub-jacksoncomo.hub.arcgis.com/apps/3e27cf2d103d417e82a2bf7f254ccbac/explore].
+4. Save changes, your project, and confirm that the changes are reflected in the [dashboard](https://combat-geospatial-hub-jacksoncomo.hub.arcgis.com/apps/3e27cf2d103d417e82a2bf7f254ccbac/explore).
 
 ## ***Issues to Address***
 There are a number of issues with the current iteration of the COMBAT STRiVIN' Referrals Dashboard that need to be addressed:
