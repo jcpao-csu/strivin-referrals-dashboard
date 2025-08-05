@@ -38,7 +38,17 @@ python -m venv <venv name>
 pip install pandas # arcpy, arcgis
 ```
 3. Set up sub-folders: 
-<pre>```root/├── DATA/│   ├── RAW/│   └── CLEANED/└── README.md└── clean_data.py```</pre>
+<pre>
+```
+root/
+├── DATA/
+│   ├── RAW/
+│   │   
+│   └── CLEANED/
+└── README.md
+└── clean_data.py
+```
+</pre>
 4. Add raw data files to `DATA/RAW`
 
 ## Extract, Transform, Load Process 
